@@ -9,6 +9,8 @@ A clean, minimalist Android application designed to help users manage their dail
 * Streamlined user interface focused on productivity.
 * Local data storage.
 
+* Built with a focus on UI/UX design.
+
 ## 🛠️ Tech Stack
 * **Development Environment:** Android Studio
 * **Language:** Java / Kotlin *(change this to whichever you are using!)*
