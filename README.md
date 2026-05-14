@@ -1,5 +1,7 @@
 # Awesome To-Do List
 
+Line added by the teammate in the cloud
+
 A clean, minimalist Android application designed to help users manage their daily tasks efficiently. 
 
 *(Note: Add a link to your blue minimalist promotional flex banner here later!)*
