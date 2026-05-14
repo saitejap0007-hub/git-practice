@@ -1,0 +1,11 @@
+# Ignore the build folder
+node_modules/
+build/
+
+# Ignore local configuration files
+.env
+local.properties
+
+# Ignore system files
+.DS_Store
+Thumbs.db
